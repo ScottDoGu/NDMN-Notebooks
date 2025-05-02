@@ -1,7 +1,7 @@
 # NDMN-Notebooks
 ## Project Summary
 
-This is a project for Purdue's National Data Mine Network where we are working with the USDA Forestry Agency.
+This is a project for Purdue's National Data Mine Network where we are working with the USDA's Forest Inventory and Analysis (FIA) program.
 
 ## List of initial notebooks and directory structure
 
