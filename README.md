@@ -1,6 +1,5 @@
 # NDMN-Notebooks
 ## Project Summary
-## This is just Papa messing with the readme for tutorial purposes 
 
 This is a project for Purdue's National Data Mine Network where we are working with the USDA Forestry Agency.
 
