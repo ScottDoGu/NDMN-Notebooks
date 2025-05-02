@@ -18,6 +18,9 @@ This is a project for Purdue's National Data Mine Network where we are working w
 
 2. **ShawneeNF Directory** - Stores John's Shawnee National Forest notebook
    - **[ShawneeNF_TCC.ipynb](/ShawneeNF/ShawneeNF_TCC.ipynb)** - Discusses how to "build a simple random sample of point locations, extract remotely sensed data for those locations, and use that data to estimate % Tree Cover for the Shawnee National Forest."
+  
+3. **Geopipeline Directory** - Stores the final, all-in-one, parent notebook along with its required data files, etc.
+   - **[geo_pipeline.ipynb](GeoPipeline/geo_pipeline.ipynb)** - This is the parent notebook that begins from importing the Costa Rican data and ending at generating a GEE visualization
 
 > Note: There are three other directories in the`CostaRica Notebook Directory`for each section's team:
 > 1. `Data Acquisition Team`
